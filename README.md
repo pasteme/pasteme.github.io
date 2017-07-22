@@ -2,4 +2,6 @@
 
 My personal projects pages.
 
-[pasteme.github.io](https://pasteme.github.io)
+Available resources:
+
+* [blog](https://pasteme.gihub.io/blog)
